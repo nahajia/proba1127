@@ -3,3 +3,5 @@ alma
 mókus, róka, holló
 
 ez lesz a jó
+
+valami új állat
