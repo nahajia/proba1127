@@ -4,3 +4,5 @@ mókus, róka, holló
 
 anakonda
 orrszarvú
+
+rigó
